@@ -1,0 +1,17 @@
+By three ways access the elements in the DOM
+ 
+         getElementByTagName()
+         getElementByClassName()
+         getElementById()
+         
+getElementByTagName() : Access the element using tag name from the html tag.
+
+ getElementByClassName() : Access the element using class name by  class name in the html tag.
+                                                          If find all HTML elements with same class name use getElementByClassName().
+
+getElementById() : Access the element using id name by unique id name in the html tag.
+
+
+
+
+         
